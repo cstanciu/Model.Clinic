@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NoduriNomenclatoare
 {
-    public class NomenclatureBaseName:IdEntity
+    public class NomenclatureBaseName : IdEntity
     {
         public string Code { get; set; }
         public string Name { get; set; }

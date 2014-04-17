@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NoduriNomenclatoare
 {
-   public class NomATCS
+    public class NomATCS
     {
     }
 }

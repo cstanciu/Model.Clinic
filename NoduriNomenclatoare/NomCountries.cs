@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace NoduriNomenclatoare
 {
-    public class NomCountries:NomenclatureBaseName
+    public class NomCountries : NomenclatureBaseName
     {
+        public string Note { get; set; }
     }
 }

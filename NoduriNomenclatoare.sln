@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoduriNomenclatoare", "NoduriNomenclatoare\NoduriNomenclatoare.csproj", "{E7F7CB57-4521-4876-B88B-FC99A4C07D72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Model.Clinic", "Test.Model.Clinic\Test.Model.Clinic.csproj", "{CA10899D-4B26-4FDD-83AF-34B75B3D6B30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{E7F7CB57-4521-4876-B88B-FC99A4C07D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7F7CB57-4521-4876-B88B-FC99A4C07D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7F7CB57-4521-4876-B88B-FC99A4C07D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA10899D-4B26-4FDD-83AF-34B75B3D6B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA10899D-4B26-4FDD-83AF-34B75B3D6B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA10899D-4B26-4FDD-83AF-34B75B3D6B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA10899D-4B26-4FDD-83AF-34B75B3D6B30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
